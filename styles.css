@@ -1,3 +1,39 @@
-<!-- background-color: #DBF9FC
-font-family: 'Tangerine', serif;
-    font-size: 48px -->
+#title{
+
+        color:red
+    
+    }   
+    
+    
+    
+    .blue{
+    
+        color:rgb(0, 0, 205)
+    
+    }   
+    
+    
+    
+    h2{
+    
+        color:rgb(25, 25, 112)
+    
+    }
+    
+      
+    
+    body{
+    
+        background-color: rgb(224, 255, 255);
+    
+        color:rgb(37, 49, 181)
+    
+    }
+    
+       
+    
+    header{
+    
+        background-color: rgb(255, 248, 220);
+    
+    }
