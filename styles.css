@@ -1,35 +1,9 @@
-#title{
-
-        color: Wheat
-    
-    }   
-      
-    
-blue{
-    
-        color: rgb(0, 0, 205)
-    
-    }   
-       
-    
-h2{
-    
-        color: rgb(25, 25, 112)
-    
-    }
-    
-          
-body{
-    
-        background-color: rgb(224, 255, 255);
-    
-        color:rgb(37, 49, 181)
-    
-    }
-    
-           
-    header{
-    
-        background-color: rgb(255, 248, 220);
-    
-    }
+body {
+    background-color: powderblue;
+  }
+  h1 {
+    color: blue;
+  }
+  p {
+    color: red;
+  }
